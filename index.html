@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CatNap - Legal Documents</title>
+    <title>Cat Nap - Legal Documents</title>
+    <script src="https://app.termly.io/resource-blocker/ed61d5fb-b9ea-43ff-848c-c03bd753e4f3?autoBlock=on"></script>
     <style>
         * {
             margin: 0;
@@ -114,6 +115,23 @@
             text-decoration: underline;
         }
 
+        .consent-link {
+            text-align: center;
+            margin-top: 20px;
+            padding: 15px;
+        }
+
+        .consent-link a {
+            color: white;
+            text-decoration: underline;
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+
+        .consent-link a:hover {
+            opacity: 1;
+        }
+
         @media (max-width: 600px) {
             .header h1 {
                 font-size: 2rem;
@@ -147,6 +165,17 @@
                 <p>Review the terms and conditions that govern your use of the CatNap app.</p>
                 <span class="arrow">Read More →</span>
             </a>
+
+            <a href="cookie_policy.html" class="card">
+                <div class="card-icon">🍪</div>
+                <h2>Cookie Policy</h2>
+                <p>Learn how we use cookies and similar technologies on our website.</p>
+                <span class="arrow">Read More →</span>
+            </a>
+        </div>
+
+        <div class="consent-link">
+            <a href="#" class="termly-display-preferences">Consent Preferences</a>
         </div>
 
         <div class="footer">
