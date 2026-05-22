@@ -6,7 +6,7 @@ This repository hosts the legal documents for Cat Nap: Brain Puzzle on GitHub Pa
 
 - **[Privacy Policy](privacy-policy.html)** - Information about data collection and usage
 - **[Terms of Service](terms-of-service.html)** - Terms governing app usage
-- **[Cookie Policy](cookie_policy.html)** - Terms governing cookie usage on the website
+- **[Cookie Policy](cookie_policy.html)** - Terms governing cookie usage on our website
 
 ## 🚀 Deployment
 
